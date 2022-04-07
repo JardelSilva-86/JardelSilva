@@ -9,3 +9,18 @@
 - Trabalho como **Assistente de Logística**, e com o conhecimento adquirido em programação consegui automatizar e melhorar os relatórios diários.
 - Meu principal objetivo é **migrar** para a área de **tecnologia**, para atuar principalmente como **analista de dados**.
 
+<hr>
+
+<div align="center">
+  <a href="https://github.com/JardelSilva-86">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelSilva-86&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelSilva-86&layout=compact&langs_count=7&theme=react"/>
+</div>
+ 
+ ### Skills :
+ <div style="display: inline_block"><br>  
+  <img align="center" alt="Romulo-Python"30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Romulo-Scala" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"> 
+  <img align="center" alt="Romulo-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+</div>
+<hr>
