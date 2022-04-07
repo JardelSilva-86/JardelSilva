@@ -28,3 +28,5 @@
   <img align="center" alt="Jardel-SqlServer""30" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 <hr>
+
+![](https://komarev.com/ghpvc/?username=your-JardelSilva-86)
