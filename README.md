@@ -17,6 +17,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelSilva-86&layout=compact&langs_count=7&theme=react"/>
 </div>
  
+ ### LinkedIn
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Jardel-LinkedIn""30" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
+ </div>
+ 
  ### Skills :
  <div style="display: inline_block"><br>  
   <img align="center" alt="Jardel-Python""30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
