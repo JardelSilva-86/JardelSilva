@@ -20,7 +20,5 @@
  ### Skills :
  <div style="display: inline_block"><br>  
   <img align="center" alt="Romulo-Python"30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Romulo-Scala" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"> 
-  <img align="center" alt="Romulo-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 </div>
 <hr>
