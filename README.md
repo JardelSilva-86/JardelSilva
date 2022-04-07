@@ -19,6 +19,7 @@
  
  ### Skills :
  <div style="display: inline_block"><br>  
-  <img align="center" alt="Romulo-Python"30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jardel-Python""30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jardel-SqlServer""30" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 <hr>
