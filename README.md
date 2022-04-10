@@ -1,8 +1,6 @@
 # Sejam bem vindos ao meu repositório! 
 ## Eu me chamo Jardel, tudo bem?
 
-### My background.
-
 ```mermaid
 
 gantt
@@ -15,6 +13,7 @@ Herbarium Laboratório Botânica SA     :active,, 01-04-2010, 18-03-2019
 Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 31-12-2022
 
 ```
+### My background.
 
 - Sou técnologo em **Logística** pela **PUC/PR** em 2012.
 - Pós graduado em **Gestão Financeira, Custos e Formação de Preço** pela **Universidade Positivo** em 2016.
