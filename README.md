@@ -3,6 +3,19 @@
 
 ### My background.
 
+```mermaid
+
+gantt
+dateFormat  DD-MM-YYYY
+title My Job Timeline
+
+section Carreira
+Viação Colombo                        :active,, 01-07-2007, 13-12-2009
+Herbarium Laboratório Botânica SA     :active,, 01-04-2010, 18-03-2019
+Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 31-12-2022
+
+```
+
 - Sou técnologo em **Logística** pela **PUC/PR** em 2012.
 - Pós graduado em **Gestão Financeira, Custos e Formação de Preço** pela **Universidade Positivo** em 2016.
 - Atualmente estou estudando **análise de dados, Business Intelligence e programação**, com foco nas linguagens **SQL e Python** e na ferramenta de visualização de dados **Power BI**.
