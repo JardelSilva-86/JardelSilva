@@ -42,5 +42,4 @@ Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 10-04-2022
 </div>
 <hr>
 
-
 ![](https://komarev.com/ghpvc/?username=your-JardelSilva-86)
