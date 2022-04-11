@@ -25,8 +25,8 @@ Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 10-04-2022
 
 <div align="center">
   <a href="https://github.com/JardelSilva-86">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelSilva-86&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelSilva-86&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelSilva-86&theme=algolia&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelSilva-86&theme=algolia&layout=compact"/>
 </div>
 
 ##
@@ -41,5 +41,6 @@ Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 10-04-2022
   <img align="center" alt="Jardel-SqlServer""30" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 <hr>
+
 
 ![](https://komarev.com/ghpvc/?username=your-JardelSilva-86)
