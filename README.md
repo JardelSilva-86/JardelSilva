@@ -26,7 +26,7 @@ Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 10-05-2022
 
 <hr>
 
-<div>
+<div  align="center">
   <a href="https://github.com/JardelSilva-86">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelSilva-86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelSilva-86&layout=compact&langs_count=16&theme=algolia"/>
