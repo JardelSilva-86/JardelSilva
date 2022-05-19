@@ -23,6 +23,14 @@ Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 10-05-2022
 - Trabalho como **Assistente de Logística**, e com o conhecimento adquirido em programação consegui automatizar e melhorar os relatórios diários;
 - Meu principal objetivo é **migrar** para a área de **tecnologia**, para atuar principalmente como **analista de dados**.
 
+### Cursos Online
+
+* 2022-01   Conquer : Produtividade e Gestão do Tempo
+* 2021-11   Conquer : Negociação e Influência
+* 2021-08   Conquer : Comunicação e Oratória
+* 2020-05   Conquer : Inteligência Emocional
+* 2020-04   Lit Saint Paul  : Técnicas de Negociações
+
 
 <hr>
 
@@ -31,17 +39,17 @@ Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 10-05-2022
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelSilva-86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelSilva-86&layout=compact&langs_count=16&theme=algolia"/>
 </div>
-
-
-##
  
  <div>
    <a href="https://www.linkedin.com/in/jardeldasilva1986/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
- ### Skills :
- <div style="display: inline_block"><br>  
+ ### Tools :
+ <div style="display: inline_block"><br> 
+  <img align="center" alt="Jardel-GitHub" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Jardel-PowerBI" height="50" width="60" src="https://img.icons8.com/color/48/000000/power-bi.png">
   <img align="center" alt="Jardel-Python""30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Romulo-Jupyter"30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Jardel-SqlServer""30" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 <hr>
