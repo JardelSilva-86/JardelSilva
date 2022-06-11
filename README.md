@@ -47,8 +47,8 @@ Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 10-05-2022
  ### Tools :
  <div style="display: inline_block"><br> 
   <img align="center" alt="Jardel-GitHub""30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Jardel-Github""30" height = "50" width="60" src = "https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerQuery-Colored.svg">
-  <img align="center" alt="Jardel-Github""30" height = "50" width="60" src = "https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg">
+  <img align="center" alt="Jardel-Github""30" height = "50" width="60" src = "https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg">
+  <img align="center" alt="Jardel-Github""30" height = "50" width="60" src = "https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
   <img align="center" alt="Jardel-Python""30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Romulo-Jupyter"30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Jardel-SqlServer""30" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
