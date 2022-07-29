@@ -12,7 +12,7 @@ Panificadora da Rose                  :active,, 01-06-2003, 01-12-2004
 Guiffer Agropecuária                  :active,, 01-02-2005, 01-05-2007
 Viação Colombo                        :active,, 01-07-2007, 13-12-2009
 Herbarium Laboratório Botânica SA     :active,, 01-04-2010, 18-03-2019
-Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 10-05-2022
+Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 29-07-2022
 
 ```
 ### My background
@@ -25,9 +25,15 @@ Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 10-05-2022
 
 ### Cursos Online
 
+* 2022-07   Conquer : Lógica de Programação
+* 2022-01   Conquer : SQL: A Linguagem dos bancos de dados
 * 2022-01   Conquer : Produtividade e Gestão do Tempo
+* 2022-01   Power BI Experience : Trilha Express
 * 2021-11   Conquer : Negociação e Influência
+* 2022-01   FIAP : Business Intelligence
 * 2021-08   Conquer : Comunicação e Oratória
+* 2022-01   Udemy : Resumo BI - Fundamentos em Business Intelligence
+* 2022-01   Fundação Bradesco : Fundamentos em Lógica de Programação
 * 2020-05   Conquer : Inteligência Emocional
 * 2020-04   Lit Saint Paul  : Técnicas de Negociações
 
