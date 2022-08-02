@@ -26,7 +26,7 @@ Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 29-07-2022
 ### Cursos Online
 
 * 2022-07   Conquer : Lógica de Programação
-* 2022-01   Conquer : SQL: A Linguagem dos bancos de dados
+* 2022-07   Conquer : SQL: A Linguagem dos bancos de dados
 * 2022-01   Conquer : Produtividade e Gestão do Tempo
 * 2022-01   Power BI Experience : Trilha Express
 * 2021-11   Conquer : Negociação e Influência
