@@ -12,7 +12,7 @@ Panificadora da Rose                  :active,, 01-06-2003, 01-12-2004
 Guiffer Agropecuária                  :active,, 01-02-2005, 01-05-2007
 Viação Colombo                        :active,, 01-07-2007, 13-12-2009
 Herbarium Laboratório Botânica SA     :active,, 01-04-2010, 18-03-2019
-Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 29-07-2022
+Keune Haircosmetics do Brasil Ltda    :active,, 01-09-2020, 02-08-2022
 
 ```
 ### My background
